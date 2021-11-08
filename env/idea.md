@@ -11,9 +11,15 @@ javadoc
 
 <img src=".\image\jdk2.png" alt="jdk2" style="zoom:80%;" />
 
-##### 123
+##### reset 插件
 
 ```
+源
+https://plugins.zhile.io
+
+
+插件
+IDE Eval Reset
 ```
 
 
